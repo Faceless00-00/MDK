@@ -1,0 +1,75 @@
+en_alphabet = 'abcdefghijklmnopqrstuvwxyzab'
+ru_alphabet = 'абвгдеёжзийклмнопрстуфхцчшщъьэюяаб'
+print('ВЫБЕРЕТЕ ВАРИАНТ РАБОТЫ','если нужно зашифровать - нажмите 1','если нужно дешифровать - нажмите 2', sep ='\n')
+for_rab = int(input())
+if for_rab != 1 and for_rab != 2:
+    print('попробуй ещё раз')
+    for_rab = int(input())
+if for_rab == 1:
+    print('ВЫБЕРЕТЕ ЯЗЫК', 'английский - нажмите 1','русский - нажмите 2', sep = '\n')
+    language = int(input())
+    if language != 1 and language != 2:
+        print('попробуй ещё раз')
+        language = int(input())
+    if language == 1:
+        print('введите текст (весь текст должен быть введен прописными буквами)')
+        text = input()
+        i = 0
+        output = ''
+        for i in range(i, len(text)):
+            prom = en_alphabet.find(text[i]) + 2
+            inde_x = text[i]
+            if inde_x == ' ':
+                letter = inde_x.replace(text[i], ' ')
+                output += letter
+            elif inde_x != ' ':
+                letter = inde_x.replace(text[i], en_alphabet[prom], 1)
+                output += letter
+            i += 1
+        print('зашифрованный текст - ', output)
+    elif language == 2:
+        print('введите текст (весь текст должен быть введен прописными буквами)')
+        text = input()
+        i = 0
+        output = ''
+        for i in range(i, len(text)):
+            prom = ru_alphabet.find(text[i]) + 2
+            inde_x = text[i]
+            letter = inde_x.replace(text[i], ru_alphabet[prom], 1)
+            output += letter
+            i += 1
+        print('зашифрованный текст - ', output)
+elif for_rab == 2:
+    print('ВЫБЕРЕТЕ ЯЗЫК', 'английский - нажмите 1', 'русский - нажмите 2', sep='\n')
+    language = int(input())
+    if language != 1 and language != 2:
+        print('попробуй ещё раз')
+        language = int(input())
+    if language == 1:
+        print('введите текст (весь текст должен быть введен прописными буквами)')
+        text = input()
+        i = 0
+        output = ''
+        for i in range(i, len(text)):
+            prom = en_alphabet.find(text[i]) - 2
+            inde_x = text[i]
+            if inde_x == ' ':
+                letter = inde_x.replace(text[i], ' ')
+                output += letter
+            elif inde_x != ' ':
+                letter = inde_x.replace(text[i], en_alphabet[prom], 1)
+                output += letter
+            i += 1
+        print('расшифрованный текст - ', output)
+    elif language == 2:
+        print('введите текст (весь текст должен быть введен прописными буквами)')
+        text = input()
+        i = 0
+        output = ''
+        for i in range(i, len(text)):
+            prom = ru_alphabet.find(text[i]) - 2
+            inde_x = text[i]
+            letter = inde_x.replace(text[i], ru_alphabet[prom], 1)
+            output += letter
+            i += 1
+        print('расшифрованный текст - ', output)
