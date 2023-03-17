@@ -1,0 +1,17 @@
+﻿<Window x:Class="Otcritca.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Otcritca"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1000">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <local:UserControl1 Header="Поздравление 1" Description="Сообщение с поздравлением 1" ColoredSource="/1.png"></local:UserControl1>
+            <local:UserControl1 Header="Поздравление 2" Description="Сообщение с поздравлением 2" ColoredSource="/2.png" ></local:UserControl1>
+            <local:UserControl1 Header="Поздравление 3" Description="Сообщение с поздравлением 3" ColoredSource="/3.png"></local:UserControl1>
+            <local:UserControl1 Header="Поздравление 4" Description="Сообщение с поздравлением 4" ColoredSource="/4.png"></local:UserControl1>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,38 @@
+C:\Users\danda\Desktop\Otcritca\Otcritca\bin\Debug\Otcritca.exe.config
+C:\Users\danda\Desktop\Otcritca\Otcritca\bin\Debug\Otcritca.exe
+C:\Users\danda\Desktop\Otcritca\Otcritca\bin\Debug\Otcritca.pdb
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca.csproj.AssemblyReference.cache
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca.csproj.SuggestedBindingRedirects.cache
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\MainWindow.g.cs
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\UserControl1.g.cs
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\App.g.cs
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca_MarkupCompile.cache
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca_MarkupCompile.lref
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\MainWindow.baml
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\UserControl1.baml
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca.g.resources
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca.Properties.Resources.resources
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca.csproj.GenerateResource.cache
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca.csproj.CoreCompileInputs.cache
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca.exe
+C:\Users\danda\Desktop\Otcritca\Otcritca\obj\Debug\Otcritca.pdb
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\bin\Debug\Otcritca.exe.config
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\bin\Debug\Otcritca.exe
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\bin\Debug\Otcritca.pdb
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca.csproj.AssemblyReference.cache
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca.csproj.SuggestedBindingRedirects.cache
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\MainWindow.g.cs
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\UserControl1.g.cs
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\App.g.cs
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca_MarkupCompile.cache
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca_MarkupCompile.lref
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\MainWindow.baml
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\UserControl1.baml
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca.g.resources
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca.Properties.Resources.resources
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca.csproj.GenerateResource.cache
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca.csproj.CoreCompileInputs.cache
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca.exe
+C:\Users\danda\Desktop\для МДК 2\Otcritca\Otcritca\obj\Debug\Otcritca.pdb
