@@ -1,0 +1,8 @@
+C:\Users\danda\Desktop\Modul_Test\Modul_Test\bin\Debug\Modul_Test.exe.config
+C:\Users\danda\Desktop\Modul_Test\Modul_Test\bin\Debug\Modul_Test.exe
+C:\Users\danda\Desktop\Modul_Test\Modul_Test\bin\Debug\Modul_Test.pdb
+C:\Users\danda\Desktop\Modul_Test\Modul_Test\obj\Debug\Modul_Test.csproj.AssemblyReference.cache
+C:\Users\danda\Desktop\Modul_Test\Modul_Test\obj\Debug\Modul_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\danda\Desktop\Modul_Test\Modul_Test\obj\Debug\Modul_Test.csproj.CoreCompileInputs.cache
+C:\Users\danda\Desktop\Modul_Test\Modul_Test\obj\Debug\Modul_Test.exe
+C:\Users\danda\Desktop\Modul_Test\Modul_Test\obj\Debug\Modul_Test.pdb
