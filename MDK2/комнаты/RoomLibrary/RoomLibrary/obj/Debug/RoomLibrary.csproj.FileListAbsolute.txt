@@ -1,0 +1,12 @@
+C:\Users\danda\Desktop\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\danda\Desktop\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\danda\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\danda\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danda\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\danda\Desktop\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
+C:\Users\danda\Desktop\комнаты\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\danda\Desktop\комнаты\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\danda\Desktop\комнаты\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\danda\Desktop\комнаты\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danda\Desktop\комнаты\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\danda\Desktop\комнаты\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
