@@ -1,0 +1,13 @@
+('Transtraxin', 'Tea & Coffee', '386.00', 7),
+('Sailjob', 'Air Fresheners', '825.00', 2),
+('Hot Ex', 'Tea & Coffee', '350.00', 1),
+('Volt Fan', 'Cakes', '514.00', 2),
+('Zaam Warm', 'Health & Medicine', '442.00', 16),
+('Saoplus', 'Bath Products', '517.00', 7),
+('S--Tip', 'Juices', '523.00', 7),
+('Saltsoft', 'Tea & Coffee', '746.00', 12),
+('Rankeco', 'Health & Medicine', '140.00', 16),
+('Zenron', 'Tea & Coffee', '311.00', 2),
+('Pluswarm', 'Air Fresheners', '1000.00', 9),
+('Lam Zumtrax', 'Water', '584.00', 17),
+('Bigwarm', 'Water', '901.00', 16);
