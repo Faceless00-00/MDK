@@ -1,0 +1,42 @@
+Таблицу переписывал руками, возмоно данные отличаются от исходной.
+
+№2
+
+ SELECT MAX(price) as max_price,
+    -> MIN(price) as min_price,
+    -> ROUND(AVG(price), 2) as mid_price,
+    -> COUNT(sold_num) as sales,
+    -> SUM(price * sold_num) as all_sum FROM store;
++-----------+-----------+-----------+-------+-----------+
+| max_price | min_price | mid_price | sales | all_sum   |
++-----------+-----------+-----------+-------+-----------+
+|   1000.00 |     91.00 |    508.91 |    22 | 103586.00 |
++-----------+-----------+-----------+-------+-----------+
+
+№3.1
+
+mysql> SELECT category, sum(price*sold_num) as SOMTHING FROM store group by category order by sum(price*sold_num) desc limit 3;
++----------------+----------+
+| category       | SOMTHING |
++----------------+----------+
+| Water          | 24344.00 |
+| Air Fresheners | 17986.00 |
+| Tea & Coffee   | 12626.00 |
++----------------+----------+
+№3.2
+mysql> SELECT category, ROUND(AVG(price*sold_num), 2) as mid_price FROM store GROUP BY category ORDER BY mid_price desc;
++-------------------+-----------+
+| category          | mid_price |
++-------------------+-----------+
+| Tea & Coffe       |  12233.00 |
+| Water             |  12172.00 |
+| Air Fresheners    |   5995.33 |
+| Health & Medicine |   4656.00 |
+| Snacks            |   3708.00 |
+| Bath Products     |   3619.00 |
+| Tea & Coffee      |   3156.50 |
+| Juices            |   2240.00 |
+| Cakes             |   1965.50 |
++-------------------+-----------+
+
+
